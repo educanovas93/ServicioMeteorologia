@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Servicio Meteorologia PPC</title>
+        <style type="text/css">
+            body, html
+            {
+                margin: 0; padding: 0; height: 100%; overflow: hidden;
+            }
+
+            #content
+            {
+                position:absolute; left: 0; right: 0; bottom: 0; top: 0px; 
+            }
+        </style>
+    </head>
+    <body>
+
+
+        <div id="content">
+            <iframe width="100%" height="100%" frameborder="0" id="framedist" src="dist.html" sandbox></iframe>
+            <iframe width="100%" height="100%" frameborder="0" id="guarro" src="dist.html" sandbox></iframe>
+        </div>
+
+        <script type="text/javascript">
+         
+
+
+            setInterval(function(){
+               //oculto primero
+               document.getElementById('framedist').style.visibility="hidden";
+               document.getElementById('framedist').src = document.getElementById('framedist').src;
+               //refresco primero
+
+               document.getElementById('guarro').style.visibility="visible";
+               
+               
+               document.getElementById('guarro').style.visibility="hidden";
+               document.getElementById('guarro').src = document.getElementById('guarro').src;
+
+               document.getElementById('framedist').style.visibility="visible";
+               
+            }, 1000);
+        </script>
+    </body>
+</html>

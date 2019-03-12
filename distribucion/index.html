@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Servicio Meteorologia PPC</title>
+        <style type="text/css">
+            body, html
+            {
+                margin: 0; padding: 0; height: 100%; overflow: hidden;
+            }
+
+            #content
+            {
+                position:absolute; left: 0; right: 0; bottom: 0; top: 0px; 
+            }
+        </style>
+    </head>
+    <body>
+
+
+        <div id="content">
+            <iframe width="100%" height="100%" frameborder="0" id="frame0" style="display:none" sandbox></iframe>
+            <iframe width="100%" height="100%" frameborder="0" id="frame1" style="display:none" sandbox></iframe>
+        </div>
+
+        <script type="text/javascript">
+         
+            var ifrNo = 0;
+            var ifrHidden;
+            var ifr;
+
+            function swap() {
+
+               ifr = document.getElementById('frame' + ifrNo);
+               ifrNo = 1 - ifrNo;
+               ifrHidden = document.getElementById('frame' + ifrNo);
+
+               ifr.onload = null;
+               ifrHidden.onload = function() {
+
+                  ifr.style.display = 'none';
+                  ifrHidden.style.display = 'block';
+
+               }
+               ifrHidden.src = "dist.html";
+
+            }
+            
+            setInterval(function () {
+               swap();
+            }, 500)
+
+
+        </script>
+    </body>
+</html>

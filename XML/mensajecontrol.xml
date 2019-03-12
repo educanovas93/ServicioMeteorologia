@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/distribucion.xsd">
+    <comando>peine</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/distribucion.xsd">
+    <comando>peine</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>peine</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>peine</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>peine</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>peine</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>toggle temperatura</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>toggle temperatura</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>toggle temperatura</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>toggle temperatura</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>add radiaciond w*m2 200</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>add radiaciod w*m2 200</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>add radiadciod w*m2 200</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>add radiadciod w*m2 200</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>add radiadcion w*m2 200</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>toggle temperatura</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>toggle temperatura</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>changeunit temperatura pe</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
+<?xml version="1.0" encoding="UTF-8"?><mensajecontrol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML/control.xsd">
+    <comando>ack</comando>
+</mensajecontrol>
